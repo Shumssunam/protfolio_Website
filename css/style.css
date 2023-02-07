@@ -1374,7 +1374,7 @@ h6 { font-size: 16px; }
 	height: 100%;
 	float: left;
 	overflow: hidden;
-	padding: 50px;
+	/* padding: 50px; */
 	overflow-y: scroll;
 }
 .dizme_tm_modalbox .description_wrap:before{
@@ -2894,7 +2894,7 @@ input[type=number] {
 	.dizme_tm_portfolio .brush_2{right: 10px;}
 	.dizme_tm_news .brush_1{left: 60px;}
 	.dizme_tm_contact .contact_inner .brush_2{right: -80px;}
-	.dizme_tm_modalbox .description_wrap{padding: 40px;}
+	/* .dizme_tm_modalbox .description_wrap{padding: 40px;} */
 	.dizme_tm_modalbox .description_wrap:before{height: 40px;}
 	.dizme_tm_modalbox .description_wrap:after{height: 40px;}
 	.dizme_tm_modalbox .box_inner{top: 50px;bottom: 50px;width: 800px;}
