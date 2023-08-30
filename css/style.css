@@ -2549,6 +2549,7 @@ h6 { font-size: 16px; }
 	height: 88px;
 	border-radius: 100%;
 	position: relative;
+	flex-shrink: 0;
 }
 .dizme_tm_contact .left .icon i{
 	position: absolute;
