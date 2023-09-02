@@ -1696,6 +1696,7 @@ h6 { font-size: 16px; }
 }
 .dizme_tm_skills .right img{
 	max-height: 800px;
+	border-radius: 16px;
 }
 
 /*---------------------------------------------------*/
