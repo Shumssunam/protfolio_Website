@@ -2289,7 +2289,7 @@ h6 { font-size: 16px; }
 	right: 0px;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center;
+	background-position: left;
 	border-radius: 12px;
 	transform: scale(1) translateZ(0);
 	
