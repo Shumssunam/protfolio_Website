@@ -2387,10 +2387,24 @@ h6 { font-size: 16px; }
 	background-position: cenlter;
 	border-radius: 12px;
 }
+
+.dizme_tm_modalbox .news_popup_informations .title a{
+	display: inline-block;
+	color: #fff;
+	font-weight: 600;
+	padding: 16px 0;
+}
+
+.dizme_tm_modalbox .news_popup_informations .title a:hover{
+	color: #f75023;
+}
 .dizme_tm_modalbox .news_popup_informations .details{
 	width: 100%;
 	float: left;
 	margin-bottom: 20px;
+}
+.dizme_tm_modalbox .news_popup_informations .details span{
+	display: none;
 }
 .dizme_tm_modalbox .news_popup_informations .details span a{
 	text-decoration: none;
